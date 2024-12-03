@@ -1,4 +1,14 @@
-## Hi there 👋
+# Checkout: A mobile point of sale method
+
+## Proposal:
+
+| Name | Email | Role |
+|--------|--------|--------|
+| Sven Veit   | 값 2   | Backend Engineer|
+| Jiyong Lee   | 값 5   | Frontend Engineer|
+| Zabolotaniaia Anna   | 값 8   | Frontend Engineer |
+| Aneesa Shaki   | 값 8   | Backend Engineer|
+
 
 <!--
 
