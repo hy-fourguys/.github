@@ -1,8 +1,7 @@
-# Checkout: A mobile point of sale method
+💻:# Checkout: A mobile point of sale method
 
 ## Proposal:
-This document will define our proposal requirements, and explain our motivations and ongoing roles throughout the initial development process of the project and fulfil client requirements with an application to improve the POS system. This project aims to develop an enhanced POS (Point of Sale) system
-that leverages smartphone-based barcode scanning technology to enable customers to complete their purchases without the need to wait in checkout lines. By using our mobile application, users can simply scan product barcodes as they shop, automatically adding items to a virtual shopping cart. When ready, hey can complete the payment through the app’s secure and user-friendly interface, eliminating the need for traditional cashier interactions. This system not only reduces customer wait times but also minimizes staff workload and enhances the shopping experience by providing a seamless and efficient checkout process.
+This project aims to develop an enhanced POS (Point of Sale) system that leverages smartphone-based barcode scanning technology to enable customers to complete their purchases without the need to wait in checkout lines. By using our mobile application, users can simply scan product barcodes as they shop, automatically adding items to a virtual shopping cart. When ready, They can complete the payment through the app’s secure and user-friendly interface, eliminating the need for traditional cashier interactions. This system not only reduces customer wait times but also minimizes staff workload and enhances the shopping experience by providing a seamless and efficient checkout process.
 
 ## Team Members
 | Name | Email | Role |
@@ -11,6 +10,9 @@ that leverages smartphone-based barcode scanning technology to enable customers 
 | Jiyong Lee   | jdragon2000@naver.com | Frontend Engineer|
 | Zabolotaniaia Anna   |elijaltayer@gmail.com | Frontend Engineer |
 | Aneesa Shaki   |a.shaki@student.unsw.edu.au   | Backend Engineer|
+
+## Our Gitlab
+https://gitlab.com/software-group8883939/Undefined
 
 
 <!--
