@@ -1,4 +1,4 @@
-💻:# Checkout: A mobile point of sale method
+# 💻 Checkout: A mobile point of sale method
 
 ## Proposal:
 This project aims to develop an enhanced POS (Point of Sale) system that leverages smartphone-based barcode scanning technology to enable customers to complete their purchases without the need to wait in checkout lines. By using our mobile application, users can simply scan product barcodes as they shop, automatically adding items to a virtual shopping cart. When ready, They can complete the payment through the app’s secure and user-friendly interface, eliminating the need for traditional cashier interactions. This system not only reduces customer wait times but also minimizes staff workload and enhances the shopping experience by providing a seamless and efficient checkout process.
