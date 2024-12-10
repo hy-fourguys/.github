@@ -16,6 +16,3 @@ https://www.youtube.com/watch?v=TFpsZQcghHQ
 | Jiyong Lee         | Hanyang University                  | Dept. of Educational Technology          | jdragon2000@naver.com         |
 | Zabolotaniaia Anna | Hanyang University                  | Dept. of Business Administration          | elijaltayer@gmail.com         |
 | Aneesa Shaki       | University of New South Wales       | Dept. of Engineering and Computer Science | a.shaki@student.unsw.edu.au  |
-
-## Our Gitlab
-https://gitlab.com/software-group8883939/Undefined
