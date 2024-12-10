@@ -7,12 +7,12 @@ This project aims to develop an enhanced POS (Point of Sale) system that leverag
 ![Azure framework](https://github.com/user-attachments/assets/5b958a10-9319-4840-85f8-bf5fd817d384)
 
 ## Team Members
-| Name | Organization | Department | Email |
-|--------|--------|--------|
-| Sven Veit | Kiel University of Applied Sciences | dept. of Economics | svenveit@hanyang.ac.kr |
-| Jiyong Lee | Hanyang University | dept. of Educational Technology | jdragon2000@naver.com | 
-| Zabolotaniaia Anna | dept. of Educational Technology | Hanyang University | elijaltayer@gmail.com |
-| Aneesa Shaki | dept. of Engineering and Computer Science | University of New South Wales | a.shaki@student.unsw.edu.au |
+| Name                | Organization                        | Department                                | Email                          |
+|---------------------|-------------------------------------|------------------------------------------|--------------------------------|
+| Sven Veit          | Kiel University of Applied Sciences | Dept. of Economics                       | svenveit@hanyang.ac.kr        |
+| Jiyong Lee         | Hanyang University                  | Dept. of Educational Technology          | jdragon2000@naver.com         |
+| Zabolotaniaia Anna | Hanyang University                  | Dept. of Business Administration          | elijaltayer@gmail.com         |
+| Aneesa Shaki       | University of New South Wales       | Dept. of Engineering and Computer Science | a.shaki@student.unsw.edu.au  |
 
 ## Our Gitlab
 https://gitlab.com/software-group8883939/Undefined
